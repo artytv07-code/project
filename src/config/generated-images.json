@@ -1,0 +1,193 @@
+{
+  "bridge": {
+    "alt": "Вечерний мост через Сож в Гомеле, огни отражаются в воде",
+    "author": "Igor Tkachiov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026.06.05_Evening_in_Gomel_Homie%C4%BA_Belarus_%D0%92%D0%B5%D1%87%D0%B5%D1%80_%D0%B2_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D0%B5_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.jpg",
+    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADwBACdASoYAB4APwlqrFCrpaQisBgMAXAhCWIAnTMYBMc7QJV8BqmpzaNBvoVoVEAA9x8MRNGZi9uS31+D4Yl5nFznxGQevuzITd+7Yc2r+QIY3mIoJlZR58vjaYcMYP9ZleCVgkvn4KlQovF+y5blYCUT6+NpQYkztHqEkarY8Q1TuKDsAdJ71yL4jdZYrIwAAA==",
+    "mobile": {
+      "avif": "/images/bridge-mobile-480.avif 480w, /images/bridge-mobile-720.avif 720w, /images/bridge-mobile-1080.avif 1080w",
+      "webp": "/images/bridge-mobile-480.webp 480w, /images/bridge-mobile-720.webp 720w, /images/bridge-mobile-1080.webp 1080w",
+      "fallback": "/images/bridge-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/bridge-desktop-960.avif 960w, /images/bridge-desktop-1280.avif 1280w, /images/bridge-desktop-1920.avif 1920w",
+      "webp": "/images/bridge-desktop-960.webp 960w, /images/bridge-desktop-1280.webp 1280w, /images/bridge-desktop-1920.webp 1920w",
+      "fallback": "/images/bridge-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "river": {
+    "alt": "Тихая вечерняя река Сож в Гомеле",
+    "author": "Igor Tkachiov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026.06.05_Evening_an_Sozh_River_in_Gomel_Homie%C4%BA_Belarus_%D0%92%D0%B5%D1%87%D0%B5%D1%80_%D0%B2_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D0%B5_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.jpg",
+    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQBACdASoYAB4APwl4sVGrp6SisBgIAXAhCWMAqPQ0a7EDXi1dGAkbXTspDS6UwAD+i4EMWo+qD5eQ2EUvMTOyLUFDxOtpMd5jOxNmzswLM9moyoYkgWlc5k5VXezrG6IQJWFWgMkuWYAJQfs6gfWxZe/MiNfkGdmVGQAA",
+    "mobile": {
+      "avif": "/images/river-mobile-480.avif 480w, /images/river-mobile-720.avif 720w, /images/river-mobile-1080.avif 1080w",
+      "webp": "/images/river-mobile-480.webp 480w, /images/river-mobile-720.webp 720w, /images/river-mobile-1080.webp 1080w",
+      "fallback": "/images/river-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/river-desktop-960.avif 960w, /images/river-desktop-1280.avif 1280w, /images/river-desktop-1920.avif 1920w",
+      "webp": "/images/river-desktop-960.webp 960w, /images/river-desktop-1280.webp 1280w, /images/river-desktop-1920.webp 1920w",
+      "fallback": "/images/river-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "detail": {
+      "avif": "/images/river-detail-450.avif 450w, /images/river-detail-600.avif 600w, /images/river-detail-900.avif 900w",
+      "webp": "/images/river-detail-450.webp 450w, /images/river-detail-600.webp 600w, /images/river-detail-900.webp 900w",
+      "fallback": "/images/river-detail-900.webp",
+      "width": 900,
+      "height": 1125
+    }
+  },
+  "embankment1": {
+    "alt": "Вечерняя набережная Гомеля с тёплыми фонарями",
+    "author": "Vasyatka1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nabiare%C5%BEnaja_Street_in_Homie%C4%BA_in_night-time_(1).jpg",
+    "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABQBQCdASoYAB4APwlur0+rpqQiMBgMAXAhCWMAxyboiJn9+0qEjDr1IsSnDUPbVNFVdAAA/vdyuqjN4crlHVZKNzcicVnxB13ogm8YCMhOf7vV/JwErMTHMkBJUez74/mgQLPBbt1n7zfisyF21PAxS3ctOdVJpg9gtm7BQnuR4ro8AAA=",
+    "mobile": {
+      "avif": "/images/embankment1-mobile-480.avif 480w, /images/embankment1-mobile-720.avif 720w, /images/embankment1-mobile-1080.avif 1080w",
+      "webp": "/images/embankment1-mobile-480.webp 480w, /images/embankment1-mobile-720.webp 720w, /images/embankment1-mobile-1080.webp 1080w",
+      "fallback": "/images/embankment1-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/embankment1-desktop-960.avif 960w, /images/embankment1-desktop-1280.avif 1280w, /images/embankment1-desktop-1920.avif 1920w",
+      "webp": "/images/embankment1-desktop-960.webp 960w, /images/embankment1-desktop-1280.webp 1280w, /images/embankment1-desktop-1920.webp 1920w",
+      "fallback": "/images/embankment1-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "embankment2": {
+    "alt": "Мокрый асфальт набережной Гомеля в свете фонарей",
+    "author": "Vasyatka1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nabiare%C5%BEnaja_Street_in_Homie%C4%BA_in_night-time_(2).jpg",
+    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASoYAB4APwlwq1ArpiOisBgMAXAhCWMAAPB0fwg86i0cwOVf6r5hgxNgaYAA/vhSPxu8tfDhb0ArKDTH5EtfiPj73/fTBBwxBpFoNDTLUdYWOyKtQFZIrurLs64W422QpxBBkJ22G+hFzeqsmHZy/b8FCrN+AAAA",
+    "mobile": {
+      "avif": "/images/embankment2-mobile-480.avif 480w, /images/embankment2-mobile-720.avif 720w, /images/embankment2-mobile-1080.avif 1080w",
+      "webp": "/images/embankment2-mobile-480.webp 480w, /images/embankment2-mobile-720.webp 720w, /images/embankment2-mobile-1080.webp 1080w",
+      "fallback": "/images/embankment2-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/embankment2-desktop-960.avif 960w, /images/embankment2-desktop-1280.avif 1280w, /images/embankment2-desktop-1920.avif 1920w",
+      "webp": "/images/embankment2-desktop-960.webp 960w, /images/embankment2-desktop-1280.webp 1280w, /images/embankment2-desktop-1920.webp 1920w",
+      "fallback": "/images/embankment2-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    "detail": {
+      "avif": "/images/embankment2-detail-450.avif 450w, /images/embankment2-detail-600.avif 600w, /images/embankment2-detail-900.avif 900w",
+      "webp": "/images/embankment2-detail-450.webp 450w, /images/embankment2-detail-600.webp 600w, /images/embankment2-detail-900.webp 900w",
+      "fallback": "/images/embankment2-detail-900.webp",
+      "width": 900,
+      "height": 1125
+    }
+  },
+  "lighthouse": {
+    "alt": "Светящиеся фонари на вечерней улице Гомеля",
+    "author": "cerber0",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lighthouse_Gomel,_%D0%BC%D0%B0%D1%8F%D0%BA-%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C_-_panoramio.jpg",
+    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADwBQCdASoYAB4APwluslKrpaSisBgIAXAhCWkAA+TfzQSpq1ptqbQ6v5sJqzoD9r2p2lGxArHcAAD+9oH3dNKsV2iv9fuDfr3/cnRMA4nEGys8wbrzpHwMqXwS8Nb9fIEnOTJMGI8m7D74+i22b3/EbK1ZXfXX9KLuMhcGe8jE05f3YPIgsKX/8/cS93Y398OZ/5YV3shFb+odrb3/RlwreD1oTs2is99NDA998R0lQM/7NzsOHkbrmSaB0mDAQ9g09Gz0Kvo6T0zEhEDvDSHcgAAAAA==",
+    "detail": {
+      "avif": "/images/lighthouse-detail-450.avif 450w, /images/lighthouse-detail-600.avif 600w, /images/lighthouse-detail-900.avif 900w",
+      "webp": "/images/lighthouse-detail-450.webp 450w, /images/lighthouse-detail-600.webp 600w, /images/lighthouse-detail-900.webp 900w",
+      "fallback": "/images/lighthouse-detail-900.webp",
+      "width": 900,
+      "height": 1125
+    }
+  },
+  "fountain": {
+    "alt": "Ночной фонтан и огни в центре Гомеля",
+    "author": "Андрей Суслов",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gomel-circus-fontan-night.jpg",
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBQCdASoYAB4APwl6tVSrp6SjKAgBcCEJZQDJEFbQa35fKzIN0wDnoLL5KAWroTBvTAD++lrv4+qD3tljjZZERn6nIrOqxZDzR+hKwxI8P0xbM4Auocpt4HWbEC8EhqY22N/pWzMaj4VD0hZRxB1CO+iMT/tYgSZw99bIiKxZanteYGfGdS5suSed1dY/UZFqUzoWnGuPbCN+XWuuqSgIAAA=",
+    "detail": {
+      "avif": "/images/fountain-detail-450.avif 450w, /images/fountain-detail-600.avif 600w, /images/fountain-detail-900.avif 900w",
+      "webp": "/images/fountain-detail-450.webp 450w, /images/fountain-detail-600.webp 600w, /images/fountain-detail-900.webp 900w",
+      "fallback": "/images/fountain-detail-900.webp",
+      "width": 900,
+      "height": 1125
+    }
+  },
+  "palace": {
+    "alt": "Дворец Румянцевых и Паскевичей в Гомеле",
+    "author": "Andreenko99",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_the_Rumyantsevs_and_the_Paskeviches_in_Gomel.jpg",
+    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBQCdASoYAB4APvliqk+qpSQiN/qoAVAfCWUAvzgeia1NBHfvzDd7yHqi/YEe/PXqGAAA/ozo8ftWJbadKGNTJlMpyzsclg/eUFoU15+tpx+n8wVzIo0DlT+Ly1fK0aFE/XBGazy0L5KkkCLHyhdlQHejy9K7LvAfLh0UAAkXW+eovbV/LFZd3mEHIoNqBXXghpnmJ7fUaKtLcAA=",
+    "mobile": {
+      "avif": "/images/palace-mobile-480.avif 480w, /images/palace-mobile-720.avif 720w, /images/palace-mobile-1080.avif 1080w",
+      "webp": "/images/palace-mobile-480.webp 480w, /images/palace-mobile-720.webp 720w, /images/palace-mobile-1080.webp 1080w",
+      "fallback": "/images/palace-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/palace-desktop-960.avif 960w, /images/palace-desktop-1280.avif 1280w, /images/palace-desktop-1920.avif 1920w",
+      "webp": "/images/palace-desktop-960.webp 960w, /images/palace-desktop-1280.webp 1280w, /images/palace-desktop-1920.webp 1920w",
+      "fallback": "/images/palace-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "lenin": {
+    "alt": "Закатная перспектива улицы Ленина в Гомеле",
+    "author": "Andrei Suslov",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gomel_-_Lenin_Avenue.JPG",
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQBACdASoYAB4APwl4slOrpyQiqAqpcCEJYgCw7A6xZJ/+g5nna5wwsz4E2NGUAADoyjw47pkBcQYg0b4r4iep+5rGpwzQvbJIH5NGcM1pQllFsCcFQ1XOPebcbncnm3c1MsV92lCMR5goQHPHp3CuvZzX+wGbbQAV9/PqFuUvUEj+F1nFLKXndXmZlxsuu8V70bEtUwMKBE4QFM8YzAAA",
+    "mobile": {
+      "avif": "/images/lenin-mobile-480.avif 480w, /images/lenin-mobile-720.avif 720w, /images/lenin-mobile-1080.avif 1080w",
+      "webp": "/images/lenin-mobile-480.webp 480w, /images/lenin-mobile-720.webp 720w, /images/lenin-mobile-1080.webp 1080w",
+      "fallback": "/images/lenin-mobile-1080.webp",
+      "width": 1080,
+      "height": 1350
+    },
+    "desktop": {
+      "avif": "/images/lenin-desktop-960.avif 960w, /images/lenin-desktop-1280.avif 1280w, /images/lenin-desktop-1920.avif 1920w",
+      "webp": "/images/lenin-desktop-960.webp 960w, /images/lenin-desktop-1280.webp 1280w, /images/lenin-desktop-1920.webp 1920w",
+      "fallback": "/images/lenin-desktop-1920.webp",
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "cafe": {
+    "alt": "Чашка капучино и круассан в тёплом свете гомельской кофейни",
+    "author": "Ladabohac",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Zlat%C3%A9_cappuccino_v_A-Caffe_v_Gomelu.jpg",
+    "lqip": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAADQBgCdASoYAB4APwluslIrpaSisBgIAXAhCWgAnS+v7P9tpTZ7Dacsf5PkzUTA/u9DNwrxItxJwXKmSnC27lwA/ueg4E59zpCY42VWFlpRjjeA0xqPNN56hs7rZJSoVxFpdCaNGsiE9Kgh18SlfJxi0cOXrU6C4QiIs/b6H2WwRdFj7mQDw7rzWVv7k/Hdu3uNOqg+7goYKV39VDG91wT/iSq5G2R1Jxat8RAFo2wUO/8Mk4WZG6AApl9FwXdh1nIWqRGirQU0QHWSgIWVbQUKbayQN4kz+rhqrt15avN4qvk5qMcitUzY3MTbSWj1TrIlMUAOXvRphIX7WMqd/McZW602JKBnuj35h8n4AAA=",
+    "detail": {
+      "avif": "/images/cafe-detail-450.avif 450w, /images/cafe-detail-600.avif 600w, /images/cafe-detail-900.avif 900w",
+      "webp": "/images/cafe-detail-450.webp 450w, /images/cafe-detail-600.webp 600w, /images/cafe-detail-900.webp 900w",
+      "fallback": "/images/cafe-detail-900.webp",
+      "width": 900,
+      "height": 1125
+    }
+  }
+}
