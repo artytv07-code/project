@@ -1,0 +1,31 @@
+# Render Blueprint — статический сайт (Vite + React, без бэкенда).
+# Документация: https://render.com/docs/blueprint-spec
+#
+# Подключение: Render Dashboard → New → Blueprint → выбрать репозиторий.
+# Render сам создаст Static Site и будет пересобирать её при пуше в main.
+
+services:
+  - type: web
+    name: odin-osobennyi-vecher
+    runtime: static
+    # devDependencies нужны для сборки: vite, typescript, @vitejs/plugin-react.
+    # --include=dev страхует от случая, когда Render выставляет NODE_ENV=production.
+    buildCommand: npm ci --include=dev && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      # Vite 8 требует Node ^20.19 || >=22.12. Фиксируем версию для
+      # воспроизводимости сборки (по умолчанию Render берёт 24.22.1).
+      - key: NODE_VERSION
+        value: 24.22.1
+      # ВАЖНО: подставляется в canonical и Open Graph при сборке.
+      # Если Render выдал другое имя (например, с суффиксом -a1b2) или вы
+      # подключили свой домен — поменяйте значение здесь и запустите redeploy.
+      - key: VITE_SITE_URL
+        value: https://odin-osobennyi-vecher.onrender.com
+    headers:
+      # Vite кладёт JS/CSS/шрифты в /assets с хешем в имени — кэшируем надолго.
+      # Файлы в /images и /audio не хешированы, их кэш оставляем по умолчанию,
+      # чтобы замена картинок и музыки подхватывалась без сброса кэша.
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
